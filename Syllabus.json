@@ -1,57 +1,90 @@
 [
     {
-        "COURSE": "CSE ",
+        "COURSE": "CSE  ",
         "Structure": "View Details",
-        "Syllabus": "II - II Sem"
+        "Syllabus1": "I - I Sem",
+        "Syllabus2": "I - II Sem",
+        "Syllabus3": "II - I Sem",
+        "Syllabus4": "II - II Sem"
     },
     {
         "COURSE": "",
         "Structure": "",
-        "Syllabus": ""
+        "Syllabus1": "",
+        "Syllabus2": "",
+        "Syllabus3": "",
+        "Syllabus4": ""
     },
     {
-        "COURSE": "CSE - AIML",
+        "COURSE": "CSE - AIML ",
         "Structure": "View Details",
-        "Syllabus": "II - II Sem"
+        "Syllabus1": "I - I Sem",
+        "Syllabus2": "I - II Sem",
+        "Syllabus3": "II - I Sem",
+        "Syllabus4": "II - II Sem"
     },
     {
         "COURSE": "",
         "Structure": "",
-        "Syllabus": ""
+        "Syllabus1": "",
+        "Syllabus2": "",
+        "Syllabus3": "",
+        "Syllabus4": ""
     },
     {
-        "COURSE": "CSE - DATA SCIENCE",
+        "COURSE": "CSE - DATA SCIENCE ",
         "Structure": "View Details",
-        "Syllabus": "II - II Sem"
+        "Syllabus1": "I - I Sem",
+        "Syllabus2": "I - II Sem",
+        "Syllabus3": "II - I Sem",
+        "Syllabus4": "II - II Sem"
     },
     {
         "COURSE": "",
         "Structure": "",
-        "Syllabus": ""
+        "Syllabus1": "",
+        "Syllabus2": "",
+        "Syllabus3": "",
+        "Syllabus4": ""
     },
     {
-        "COURSE": "CSE - CYBER SECURITY",
+        "COURSE": "CSE - CYBER SECURITY ",
         "Structure": "View Details",
-        "Syllabus": "II - II Sem"
+        "Syllabus1": "I - I Sem",
+        "Syllabus2": "I - II Sem",
+        "Syllabus3": "II - I Sem",
+        "Syllabus4": "II - II Sem"
     },
     {
         "COURSE": "",
         "Structure": "",
-        "Syllabus": ""
+        "Syllabus1": "",
+        "Syllabus2": "",
+        "Syllabus3": "",
+        "Syllabus4": ""
     },
     {
-        "COURSE": "CSE - IoT",
+        "COURSE": "CSE - IoT ",
         "Structure": "View Details",
-        "Syllabus": "II - II Sem"
+        "Syllabus1": "I - I Sem",
+        "Syllabus2": "I - II Sem",
+        "Syllabus3": "II - I Sem",
+        "Syllabus4": "II - II Sem"
     },
     {
         "COURSE": "",
         "Structure": "",
-        "Syllabus": ""
+        "Syllabus1": "",
+        "Syllabus2": "",
+        "Syllabus3": "",
+        "Syllabus4": ""
     },
     {
-        "COURSE": "INFORMATION TECHNOLOGY",
+        "COURSE": "INFORMATION TECHNOLOGY ",
         "Structure": "View Details",
-        "Syllabus": "II - II Sem"
+        "Syllabus1": "I - I Sem",
+        "Syllabus2": "I - II Sem",
+        "Syllabus3": "II - I Sem",
+        "Syllabus4": "II - II Sem"
     }
 ]
