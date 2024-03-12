@@ -1,11 +1,11 @@
 [
     {
-        "COURSE": "CSE  ",
-        "Structure": "View Details",
-        "Syllabus1": "I - I Sem",
-        "Syllabus2": "I - II Sem",
-        "Syllabus3": "II - I Sem",
-        "Syllabus4": "II - II Sem"
+        "COURSE": "CSE",
+        "Structure": {"name": "View Details", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_7f99abe5bb66465c8a99aeee4d6a3942.pdf"},
+        "Syllabus1": {"name": "I - I Sem", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf"},
+        "Syllabus2": {"name": "I - II Sem", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_e09eb92d12f94b2b960e00f3fa0f4075.pdf"},
+        "Syllabus3": {"name": "II - I Sem", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4c1fcf72ddf14d939d520fcba3e675d5.pdf"},
+        "Syllabus4": {"name": "II - II Sem", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4c1fcf72ddf14d939d520fcba3e675d5.pdf"}
     },
     {
         "COURSE": "",
@@ -16,12 +16,12 @@
         "Syllabus4": ""
     },
     {
-        "COURSE": "CSE - AIML ",
-        "Structure": "View Details",
-        "Syllabus1": "I - I Sem",
-        "Syllabus2": "I - II Sem",
-        "Syllabus3": "II - I Sem",
-        "Syllabus4": "II - II Sem"
+        "COURSE": "CSE - AIML",
+        "Structure": {"name": "View Details", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_1855e9af032d461cafc8609cee069d52.pdf"},
+        "Syllabus1": {"name": "I - I Sem", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf"},
+        "Syllabus2": {"name": "I - II Sem", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_33aa09c4a3d44d93984d9250a4f02289.pdf"},
+        "Syllabus3": {"name": "II - I Sem", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf"},
+        "Syllabus4": {"name": "II - II Sem", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_33aa09c4a3d44d93984d9250a4f02289.pdf"}
     },
     {
         "COURSE": "",
@@ -32,12 +32,12 @@
         "Syllabus4": ""
     },
     {
-        "COURSE": "CSE - DATA SCIENCE ",
-        "Structure": "View Details",
-        "Syllabus1": "I - I Sem",
-        "Syllabus2": "I - II Sem",
-        "Syllabus3": "II - I Sem",
-        "Syllabus4": "II - II Sem"
+        "COURSE": "CSE - DATA SCIENCE",
+        "Structure": {"name": "View Details", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_c2829e50b2f1440b991f950d154d7930.pdf"},
+        "Syllabus1": {"name": "I - I Sem", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf"},
+        "Syllabus2": {"name": "I - II Sem", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_33aa09c4a3d44d93984d9250a4f02289.pdf"},
+        "Syllabus3": {"name": "II - I Sem", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf"},
+        "Syllabus4": {"name": "II - II Sem", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_33aa09c4a3d44d93984d9250a4f02289.pdf"}
     },
     {
         "COURSE": "",
@@ -48,12 +48,12 @@
         "Syllabus4": ""
     },
     {
-        "COURSE": "CSE - CYBER SECURITY ",
-        "Structure": "View Details",
-        "Syllabus1": "I - I Sem",
-        "Syllabus2": "I - II Sem",
-        "Syllabus3": "II - I Sem",
-        "Syllabus4": "II - II Sem"
+        "COURSE": "CSE - CYBER SECURITY",
+        "Structure": {"name": "View Details", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_96d4feed1069440997298ed9ecb67ec0.pdf"},
+        "Syllabus1": {"name": "I - I Sem", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf"},
+        "Syllabus2": {"name": "I - II Sem", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_33aa09c4a3d44d93984d9250a4f02289.pdf"},
+        "Syllabus3": {"name": "II - I Sem", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf"},
+        "Syllabus4": {"name": "II - II Sem", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_33aa09c4a3d44d93984d9250a4f02289.pdf"}
     },
     {
         "COURSE": "",
@@ -64,12 +64,12 @@
         "Syllabus4": ""
     },
     {
-        "COURSE": "CSE - IoT ",
-        "Structure": "View Details",
-        "Syllabus1": "I - I Sem",
-        "Syllabus2": "I - II Sem",
-        "Syllabus3": "II - I Sem",
-        "Syllabus4": "II - II Sem"
+        "COURSE": "CSE - IoT",
+        "Structure": {"name": "View Details", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_96d4feed1069440997298ed9ecb67ec0.pdf"},
+        "Syllabus1": {"name": "I - I Sem", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf"},
+        "Syllabus2": {"name": "I - II Sem", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_e09eb92d12f94b2b960e00f3fa0f4075.pdf"},
+        "Syllabus3": {"name": "II - I Sem", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4c1fcf72ddf14d939d520fcba3e675d5.pdf"},
+        "Syllabus4": {"name": "II - II Sem", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4c1fcf72ddf14d939d520fcba3e675d5.pdf"}
     },
     {
         "COURSE": "",
@@ -80,11 +80,11 @@
         "Syllabus4": ""
     },
     {
-        "COURSE": "INFORMATION TECHNOLOGY ",
-        "Structure": "View Details",
-        "Syllabus1": "I - I Sem",
-        "Syllabus2": "I - II Sem",
-        "Syllabus3": "II - I Sem",
-        "Syllabus4": "II - II Sem"
+        "COURSE": "INFORMATION TECHNOLOGY",
+        "Structure": {"name": "View Details", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_82c9e6c03d1b4f1a87539689c820958e.pdf"},
+        "Syllabus1": {"name": "I - I Sem", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf"},
+        "Syllabus2": {"name": "I - II Sem", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_e09eb92d12f94b2b960e00f3fa0f4075.pdf"},
+        "Syllabus3": {"name": "II - I Sem", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4c1fcf72ddf14d939d520fcba3e675d5.pdf"},
+        "Syllabus4": {"name": "II - II Sem", "link": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4c1fcf72ddf14d939d520fcba3e675d5.pdf"}
     }
 ]
